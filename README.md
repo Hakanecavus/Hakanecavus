@@ -43,7 +43,7 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
   
   <!-- 1. Genel İstatistik Kartı -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=hakanecavus&show_icons=true&theme=dark" alt="Hakan's GitHub Stats" height="195" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api?username=hakanecavus&show_icons=true&theme=dark" alt="Hakan's GitHub Stats" height="195" />
   </a>
   <br/><br/>
 
@@ -55,7 +55,7 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 
   <!-- 3. En Çok Kullanılan Diller Kartı -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=hakanecavus&layout=compact&theme=dark&hide=html,css" alt="Hakan's Most Used Languages" height="140" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api/top-langs/?username=hakanecavus&layout=compact&theme=dark&hide=html,css" alt="Hakan's Most Used Languages" height="140" />
   </a>
 
 </p>
