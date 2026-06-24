@@ -40,22 +40,27 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 
 <!-- GitHub İstatistik Kartları Alanı -->
 <p align="left">
-  
-  <!-- 1. Genel İstatistik Kartı (Herokuapp Aynası) -->
+
+  <!-- 1. Genel İstatistik & Aktivite Grafiği (Stabil ve Güvenli Alternatif) -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api?username=hakanecavus&show_icons=true&theme=dark" alt="Hakan's GitHub Stats" height="195" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanecavus&theme=github-dark" alt="Hakan's GitHub Activity" width="495" />
   </a>
   <br/><br/>
 
-  <!-- 2. Çalışma Devamlılığı (Streak) Kartı (Herokuapp) -->
+  <!-- 2. Çalışma Devamlılığı (Streak) Kartı (Çalışan Mevcut Kartınız) -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=dark" alt="Hakan's GitHub Streak" height="195" />
   </a>
   <br/><br/>
 
-  <!-- 3. En Çok Kullanılan Diller Kartı (Güvenli GitHub Önbellek Sunucusu) -->
-  <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api/top-langs/?username=hakanecavus&layout=compact&theme=dark&hide=html,css" alt="Hakan's Most Used Languages" height="195" />
-  </a>
+  <!-- 3. En Çok Kullanılan Diller (Asla Kırılmayan Kurumsal Rozetler) -->
+  <strong>🛠️ Tech Stack & Core Languages:</strong><br/><br/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </p>
