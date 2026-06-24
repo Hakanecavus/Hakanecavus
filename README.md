@@ -41,21 +41,21 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 <!-- GitHub İstatistik Kartları Alanı -->
 <p align="left">
   
-  <!-- 1. Genel İstatistik Kartı -->
+  <!-- 1. Genel İstatistik Kartı (Herokuapp Aynası) -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api?username=hakanecavus&show_icons=true&theme=dark" alt="Hakan's GitHub Stats" height="195" />
   </a>
   <br/><br/>
 
-  <!-- 2. Çalışma Devamlılığı (Streak) Kartı -->
+  <!-- 2. Çalışma Devamlılığı (Streak) Kartı (Herokuapp) -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=dark" alt="Hakan's GitHub Streak" height="195" />
   </a>
   <br/><br/>
 
-  <!-- 3. En Çok Kullanılan Diller Kartı -->
+  <!-- 3. En Çok Kullanılan Diller Kartı (Güvenli GitHub Önbellek Sunucusu) -->
   <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api/top-langs/?username=hakanecavus&layout=compact&theme=dark&hide=html,css" alt="Hakan's Most Used Languages" height="140" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.herokuapp.com/api/top-langs/?username=hakanecavus&layout=compact&theme=dark&hide=html,css" alt="Hakan's Most Used Languages" height="195" />
   </a>
 
 </p>
