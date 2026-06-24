@@ -41,3 +41,8 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=radial" alt="Hakan's GitHub Stats" />
 </a>
+
+<!-- En Çok Kullanılan Diller Kartı -->
+<a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=hakanecavus&layout=compact&theme=radial&hide=html,css" alt="Top Languages" />
+</a>
