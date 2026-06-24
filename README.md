@@ -38,10 +38,24 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 
 ---
 
-<a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=radial" alt="Hakan's GitHub Stats" />
-</a>
+<!-- GitHub İstatistik Kartları Alanı -->
+<p align="left">
+  
+  <!-- 1. Genel İstatistik Kartı -->
+  <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=hakanecavus&show_icons=true&theme=dark" alt="Hakan's GitHub Stats" height="195" />
+  </a>
+  <br/><br/>
 
-<a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-  <img src="https://metrics.lecoq.io/hakanecavus?base=languages&languages.ignored=html,css&theme=radial" alt="Most Used Languages" />
-</a>
+  <!-- 2. Çalışma Devamlılığı (Streak) Kartı -->
+  <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=dark" alt="Hakan's GitHub Streak" height="195" />
+  </a>
+  <br/><br/>
+
+  <!-- 3. En Çok Kullanılan Diller Kartı -->
+  <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=hakanecavus&layout=compact&theme=dark&hide=html,css" alt="Hakan's Most Used Languages" height="140" />
+  </a>
+
+</p>
