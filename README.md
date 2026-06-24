@@ -38,5 +38,6 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 
 ---
 
-### 📊 GitHub Stats
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanecavus&show_icons=true&theme=radial)
+<a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=radial" alt="Hakan's GitHub Stats" />
+</a>
