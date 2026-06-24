@@ -7,11 +7,18 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 
 ---
 
-### 🌐 Connect with Me
-Here are my professional networks and communication channels. Let's connect!
+<h3>🌐 Connect with Me</h3>
+<p>Here are my professional networks and communication channels. Let's connect!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakanecavus/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hakanemrecavus@gmail.com)
+<!-- LinkedIn Butonu -->
+<a href="https://www.linkedin.com/in/hakanecavus/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- Gmail Butonu -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hakanemrecavus@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
