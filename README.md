@@ -41,18 +41,6 @@ I am a passionate Computer Engineering graduate with 5+ years of experience spec
 <!-- GitHub İstatistik Kartları Alanı -->
 <p align="left">
 
-  <!-- 1. Genel İstatistik & Aktivite Grafiği -->
-  <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanecavus&theme=github-dark" alt="Hakan's GitHub Activity" width="495" />
-  </a>
-  <br/><br/>
-
-  <!-- 2. Çalışma Devamlılığı (Streak) Kartı -->
-  <a href="https://github.com/hakanecavus" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=dark" alt="Hakan's GitHub Streak" height="195" />
-  </a>
-  <br/><br/>
-
   <!-- 3. En Çok Kullanılan Diller (Talep Ettiğiniz Özel Sıralama) -->
   <strong>🛠️ Tech Stack & Core Languages:</strong><br/><br/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
