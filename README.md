@@ -3,10 +3,6 @@
 # ⚡ Hakan Emre Çavuş
 ### 🚀 Senior Software Engineer (.NET / Cloud & Distributed Systems) | Tech Lead
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=High-Throughput+Enterprise+Backend+Systems;Applied+Edge+AI+%26+Computer+Vision+(ResNet-18);Cloud-Native+Microservices+%7C+DDD+%26+CQRS;Open+to+Relocation+to+Denmark+%2F+EU+🇩🇰" alt="Typing SVG" />
-</p>
-
 <!-- Hızlı İletişim & Rozetler -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hakanecavus/" target="_blank">
@@ -50,19 +46,6 @@
 > **🚀 Ölçeklenebilir FinTech Altyapısı:** 7.000+ kurumsal aktif kullanıcıya hizmet veren yetkilendirme modüllerinde sorgu optimizasyonu ile API yanıt sürelerinde %70 iyileştirme[cite: 1].
 
 > **🔄 ERP & Entegrasyon Katmanı (ERZE_SAP):** Eski monolit yapıları hafif mikroservislere dönüştürerek çift yönlü senkronizasyon ile yazılım lisans/operasyon maliyetinde %50 tasarruf[cite: 1].
-
----
-
-### 📊 GitHub Canlı İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakanecavus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanecavus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hakanecavus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
 
 ---
 
