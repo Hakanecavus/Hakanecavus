@@ -39,13 +39,13 @@
 
 ### 🏆 Öne Çıkan Başarılar & Mühendislik Etkisi
 
-> **⚡ ResNet-18 Tabanlı Kalite Kontrol Sistemi:** PyTorch ile özelleştirilmiş veri setlerinde eğitilen yapay zeka modelini sahaya taşıyıp mobil çıkarım (inference) ve Flutter arayüzüyle hata payını sıfırlayan endüstriyel hat çözümü[cite: 1].
+> **⚡ ResNet-18 Tabanlı Kalite Kontrol Sistemi:** PyTorch ile özelleştirilmiş veri setlerinde eğitilen yapay zeka modelini sahaya taşıyıp mobil çıkarım (inference) ve Flutter arayüzüyle hata payını sıfırlayan endüstriyel hat çözümü.
 
-> **📡 Gerçek Zamanlı Telemetri & Dağıtık Takip:** Sensör, RFID ve üretim hattı olaylarını işleyen olay güdümlü (event-driven) backend kurgusu ile kesintisiz %99.9 çalışma süresi[cite: 1].
+> **📡 Gerçek Zamanlı Telemetri & Dağıtık Takip:** Sensör, RFID ve üretim hattı olaylarını işleyen olay güdümlü (event-driven) backend kurgusu ile kesintisiz %99.9 çalışma süresi.
 
-> **🚀 Ölçeklenebilir FinTech Altyapısı:** 7.000+ kurumsal aktif kullanıcıya hizmet veren yetkilendirme modüllerinde sorgu optimizasyonu ile API yanıt sürelerinde %70 iyileştirme[cite: 1].
+> **🚀 Ölçeklenebilir FinTech Altyapısı:** 7.000+ kurumsal aktif kullanıcıya hizmet veren yetkilendirme modüllerinde sorgu optimizasyonu ile API yanıt sürelerinde %70 iyileştirme.
 
-> **🔄 ERP & Entegrasyon Katmanı (ERZE_SAP):** Eski monolit yapıları hafif mikroservislere dönüştürerek çift yönlü senkronizasyon ile yazılım lisans/operasyon maliyetinde %50 tasarruf[cite: 1].
+> **🔄 ERP & Entegrasyon Katmanı (ERZE_SAP):** Eski monolit yapıları hafif mikroservislere dönüştürerek çift yönlü senkronizasyon ile yazılım lisans/operasyon maliyetinde %50 tasarruf.
 
 ---
 
