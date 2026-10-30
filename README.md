@@ -28,12 +28,12 @@
 
 ### 👨‍💻 Hakkımda & Odak Alanlarım
 
-5 yılı aşkın süredir fintech ve endüstriyel akıllı üretim ekosistemlerinde **yüksek verimli dağıtık mimariler**, dayanıklı backend servisleri ve gerçek zamanlı uçtan uca sistemler inşa ediyorum[cite: 1].
+5 yılı aşkın süredir fintech ve endüstriyel akıllı üretim ekosistemlerinde **yüksek verimli dağıtık mimariler**, dayanıklı backend servisleri ve gerçek zamanlı uçtan uca sistemler inşa ediyorum.
 
-* ⚙️ **Çekirdek Uzmanlık:** **.NET 8 (C#)** ve **Java (Spring Boot)** üzerinde Clean Architecture, Domain-Driven Design (DDD) ve CQRS yaklaşımları[cite: 1].
-* 🧠 **Uygulamalı Edge AI & Computer Vision:** ResNet-18 ve PyTorch ile endüstriyel kalite kontrol boru hatları ve mobil çıkarım (inference) motorları[cite: 1].
-* ⚡ **Performans Optimizasyonu:** SQL & EF Core indeksleme/sorgu mimarileri ile kritik endpoint'lerde %70'e varan gecikme düşüşü[cite: 1].
-* 🌐 **Uluslararası Vizyon:** Danimarka Fast-Track / Pay Limit programına tam uyumlu, uzun vadeli relokasyon fırsatlarına aktif olarak açık[cite: 1].
+* ⚙️ **Çekirdek Uzmanlık:** **.NET 8 (C#)** ve **Java (Spring Boot)** üzerinde Clean Architecture, Domain-Driven Design (DDD) ve CQRS yaklaşımları.
+* 🧠 **Uygulamalı Edge AI & Computer Vision:** ResNet-18 ve PyTorch ile endüstriyel kalite kontrol boru hatları ve mobil çıkarım (inference) motorları.
+* ⚡ **Performans Optimizasyonu:** SQL & EF Core indeksleme/sorgu mimarileri ile kritik endpoint'lerde %70'e varan gecikme düşüşü.
+* 🌐 **Uluslararası Vizyon:** Danimarka Fast-Track / Pay Limit programına tam uyumlu, uzun vadeli relokasyon fırsatlarına aktif olarak açık.
 
 ---
 
